@@ -1,5 +1,8 @@
-Developed a full-stack mail system where users can compose, send, receive, and manage mails with status updates (read/unread/starred).
+# React + Vite
 
-Implemented secure authentication including login/signup, JWT-based sessions, and Google OAuth for quick access.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Built a responsive, modern UI with dark/light mode, inbox views, and smooth interactions# ReachInbox
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh

@@ -1,0 +1,87 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: 'OpenSans Bold';
+    src: url('./fonts/OpenSans_Condensed-Bold.ttf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'OpenSans Light';
+    src: url('./fonts/OpenSans_Condensed-Light.ttf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'OpenSans Medium';
+    src: url('./fonts/OpenSans_Condensed-Medium.ttf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'OpenSans Regular';
+    src: url('./fonts/OpenSans_Condensed-Regular.ttf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'OpenSans SemiBold';
+    src: url('./fonts/OpenSans_Condensed-SemiBold.ttf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'DMSans Bold';
+    src: url('./fonts/DMSans_18pt-Bold.ttf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'DMSans Medium';
+    src: url('./fonts/DMSans_18pt-Medium.ttf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'DMSans Regular';
+    src: url('./fonts/DMSans_18pt-Regular.ttf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'DMSans SemiBold';
+    src: url('./fonts/DMSans_18pt-SemiBold.ttf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'Inter Bold';
+    src: url('./fonts/Inter_18pt-Bold.ttf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'Inter Medium';
+    src: url('./fonts/Inter_18pt-Medium.ttf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'Inter Regular';
+    src: url('./fonts/Inter_18pt-Regular.ttf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'Inter SemiBold';
+    src: url('./fonts/Inter_18pt-SemiBold.ttf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+  }
+
+::-webkit-scrollbar{
+  display: none;
+}
